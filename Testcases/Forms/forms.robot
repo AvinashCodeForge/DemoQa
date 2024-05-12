@@ -32,7 +32,6 @@ Forms
     Input Text    id:userNumber    9848022338
     Execute Javascript      scrollTo(0,600)
     Sleep    5
-#    Input Text    //div[@class="subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3"]    robotFramework
     Click Element    xpath://input[@id="hobbies-checkbox-1"]//parent::div
     Input Text    id:currentAddress    Tirupathi
     Execute Javascript      scrollTo(0,800)
